@@ -3,13 +3,12 @@
 
 Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til)
 
---
-
+---
 ### Categories
 
-* [Conda](#Conda)
+- [Conda](#Conda)
 
---
+---
 
 ### Conda
 
