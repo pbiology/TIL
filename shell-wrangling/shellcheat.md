@@ -4,7 +4,7 @@
 
 --
 
-###Datamash
+#### Datamash
 Transposing a file
 
 ```
@@ -19,7 +19,7 @@ $ seq 3 | datamash sum 1
 6
 ```
 
-### Paste
+#### Paste
 Making output into columns
 
 ```
@@ -28,7 +28,7 @@ $ seq 10 | paste - -
 2	4	6	8	10 
 ```
 
-### Column
+#### Column
 Make nice columns in csv files and others.
 
 ```
