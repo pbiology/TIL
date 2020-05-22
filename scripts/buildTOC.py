@@ -71,9 +71,6 @@ def main(start, template, exclude):
                     if line.startswith("##### "):
                         print("* [{0}]({1}/{2}#{3})".format(line[6:].rstrip(), folder,
                             file.name, line[6:].rstrip().replace(" ", "-").replace(",","")))
-                        #print(" * [{0}]({1}#{2})".format(line[6:].rstrip(), folder,
-                        #line[6:].rstrip().replace(" ","-")))
-                        #print(" * {0}".format(line[6:].rstrip()))
         print("\n---")
 
 if __name__ == '__main__':
