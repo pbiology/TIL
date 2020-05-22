@@ -18,7 +18,7 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 * [Create a new environment](conda/condacheat.md#Create-a-new-environment)
 * [Activating and Deactivating environments](conda/condacheat.md#Activating-and-Deactivating-environments)
 * [Removing an environment](conda/condacheat.md#Removing-an-environment)
-* [To clean unnecessary cached files, tarballs, and stuff](conda/condacheat.md#To-clean-unnecessary-cached-files,-tarballs,-and-stuff)
+* [To clean unnecessary cached files, tarballs, and stuff](conda/condacheat.md#To-clean-unnecessary-cached-files-tarballs-and-stuff)
 * [Export the environment](conda/condacheat.md#Export-the-environment)
 
 ---
