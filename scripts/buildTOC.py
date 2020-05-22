@@ -66,10 +66,13 @@ def main(start, template, exclude):
             with open(file.path, "r") as md:
                 for line in md:
                     if line.startswith("### "):
-                        print("* [{1}]({0}#{1})".format(folder, line[4:].rstrip()))
+                        print("* [{0}]({1}/{2}#{3})".format(line[4:].rstrip(), folder,
+                            file.name, line[4:].rstrip().replace(" ","-")))
                     if line.startswith("##### "):
-                        print(" * [{0}]({1}#{2})".format(line[6:].rstrip(), folder,
-                        line[6:].rstrip().replace(" ","-")))
+                        print(" * [{0}]({1}/{2}#{3})".format(line[6:].rstrip(), folder,
+                            file.name, line[4:].rstrip().replace(" ", "-")))
+                        #print(" * [{0}]({1}#{2})".format(line[6:].rstrip(), folder,
+                        #line[6:].rstrip().replace(" ","-")))
                         #print(" * {0}".format(line[6:].rstrip()))
         print("\n---")
 
