@@ -13,4 +13,5 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 
 ### Conda
 
-- [Conda](conda/condacheat.md)
+- [List all environments](conda/condacheat.md#list-all-environments)
+- [Adding channels](conda/condacheat.md#adding-channels)
