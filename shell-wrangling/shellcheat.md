@@ -12,7 +12,8 @@ $ cat <file> | datamash transpose
 $ cat <file> | datamash transpose -t " " #Use whitespace instead of tab
 ```
 
-##### Getting sum of a column (column 1 in this case)
+##### Getting sum of a column 
+> (column 1 in this case)
 
 ```
 $ seq 3 | datamash sum 1 
@@ -29,7 +30,7 @@ $ seq 10 | paste - -
 ```
 
 ### Column
-##### Make nice columns in csv files and others.
+##### Make nice columns in csv files and others
 
 ```
 $ column -s "\t" <file> | less -S
