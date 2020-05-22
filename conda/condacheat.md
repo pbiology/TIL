@@ -25,11 +25,11 @@ channels:
 $ conda create --name <myenv> <package>=<version>
 ```
 
-#### Activating/Deactivating environments
+#### Activating and Deactivating environments
 
 ```
 $ conda activate <myenv> 
-1. $ conda deactiavte <myenv>
+$ conda deactiavte <myenv>
 ```
 
 #### Removing an environment
