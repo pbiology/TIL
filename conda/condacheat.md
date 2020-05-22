@@ -28,7 +28,7 @@ Activating/Deactivating environments
 
 ```
 $ conda activate <myenv> 
-$ conda deactiavte <myenv>
+1. $ conda deactiavte <myenv>
 ```
 
 Removing an environment:
