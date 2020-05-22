@@ -1,13 +1,13 @@
 # Conda cheat sheet
 --
 
-List all environments:
+####List all environments:
 
 ```
 $ conda info -e
 ```
 
-Adding channels - via .condarc
+####Adding channels - via .condarc
 
 ```
 $ cat ~/.condarc
@@ -18,32 +18,32 @@ channels:
   - defaults
 ```
 
-Create a new environment:
+####Create a new environment:
 
 ```
 $ conda create --name <myenv> <package>=<version>
 ```
 
-Activating/Deactivating environments
+####Activating/Deactivating environments
 
 ```
 $ conda activate <myenv> 
 1. $ conda deactiavte <myenv>
 ```
 
-Removing an environment:
+####Removing an environment:
 
 ```
 $ conda remove --name <myenv> --all
 ```
 
-To clean unnecessary cached files, tarballs, and stuff:
+####To clean unnecessary cached files, tarballs, and stuff:
 
 ```
 $ conda clean --all
 ```
 
-Export the environment
+####Export the environment
 
 ```
 #Freeze the current environment into requirements.txt:
