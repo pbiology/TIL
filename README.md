@@ -7,6 +7,7 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 ### Categories
 
 * [Conda](#conda)
+* [Emacs](#emacs)
 * [Qsub](#qsub)
 * [Scripts](#scripts)
 * [Shell-wrangling](#shell-wrangling)
@@ -22,6 +23,13 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 * [Removing an environment](conda/condacheat.md#Removing-an-environment)
 * [To clean unnecessary cached files, tarballs, and stuff](conda/condacheat.md#To-clean-unnecessary-cached-files-tarballs-and-stuff)
 * [Export the environment](conda/condacheat.md#Export-the-environment)
+
+---
+### Emacs
+> emacssheet.md
+
+* [Move, Remove and copy text](emacs/emacssheet.md#Move-Remove-and-copy-text)
+* [Misc](emacs/emacssheet.md#Misc)
 
 ---
 ### Qsub
