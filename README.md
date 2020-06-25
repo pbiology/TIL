@@ -8,6 +8,7 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 
 * [Conda](#conda)
 * [Emacs](#emacs)
+* [Git](#git)
 * [Qsub](#qsub)
 * [Scripts](#scripts)
 * [Shell-wrangling](#shell-wrangling)
@@ -30,6 +31,12 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 
 * [Move, Remove and copy text](emacs/emacssheet.md#Move-Remove-and-copy-text)
 * [Misc](emacs/emacssheet.md#Misc)
+
+---
+### Git
+> gitsheet.md
+
+* [Change the message of the last commit](git/gitsheet.md#Change-the-message-of-the-last-commit)
 
 ---
 ### Qsub
