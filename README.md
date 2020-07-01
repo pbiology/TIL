@@ -9,6 +9,7 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 * [Conda](#conda)
 * [Emacs](#emacs)
 * [Git](#git)
+* [Macos](#macOS)
 * [Qsub](#qsub)
 * [Scripts](#scripts)
 * [Shell-wrangling](#shell-wrangling)
@@ -37,6 +38,12 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 > gitsheet.md
 
 * [Change the message of the last commit](git/gitsheet.md#Change-the-message-of-the-last-commit)
+
+---
+### Macos
+> macossheet.md
+
+* [Disable mouse acceleration](macOS/macossheet.md#Disable-mouse-acceleration)
 
 ---
 ### Qsub
