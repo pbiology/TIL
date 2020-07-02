@@ -38,6 +38,7 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 > gitsheet.md
 
 * [Change the message of the last commit](git/gitsheet.md#Change-the-message-of-the-last-commit)
+* [Working with issues connected to progress kanban board](git/gitsheet.md#Working-with-issues-connected-to-progress-kanban-board)
 
 ---
 ### Macos
