@@ -66,4 +66,6 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 ##### [Column](shell-wrangling/shellcheat.md#Column)
 * [Make nice columns in csv files and others](shell-wrangling/shellcheat.md#Make-nice-columns-in-csv-files-and-others)
 
+##### [Disown foreground processes](shell-wrangling/shellcheat.md#Disown-foreground-processes)
+
 ---
