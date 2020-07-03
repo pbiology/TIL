@@ -36,3 +36,12 @@ $ seq 10 | paste - -
 $ column -s "\t" <file> | less -S
 ```
 > Added as function "cls"
+
+### Disown foreground processes
+
+```
+# Stop process using ctrl-z
+$ bg 1 #Starts in background
+$ disown -h 
+
+``` 
