@@ -23,6 +23,8 @@ channels:
 
 ```
 $ conda create --name <myenv> <package>=<version>
+*OR*
+conda env create -f environment.yml
 ```
 
 ##### Activating and Deactivating environments
