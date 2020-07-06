@@ -1,6 +1,7 @@
 # Conda cheat sheet
 --
 
+### Managing environments
 ##### List all environments
 
 ```
@@ -64,7 +65,7 @@ $ conda env export > environment.yml
 
 --
 
-####Example of environment.yml file
+### Example of environment.yml file
 
 ```
 name: Environment name
@@ -75,4 +76,24 @@ channels:
 dependencies:
   - python=3.8
   - sample-sheet=0.12.0
+```
+--
+
+### Set what to show on the command line prompt
+These settings are made in the .condarc file, most often located in the home folder
+
+```
+changeps1 (bool)  
+# When set to 'True', will change the command prompt ($PS1) to 
+# include the activated environment.
+
+env_prompt: '({default_env})'
+# Template for prompt modification based on the active environment.
+# Currently supported template variables are '{prefix}', '{name}', and
+# '{default_env}'. '{prefix}' is the absolute path to the active
+# environment. '{name}' is the basename of the active environment
+# prefix. '{default_env}' holds the value of '{name}' if the active
+# environment is a conda named environment ('-n' flag), or otherwise
+# holds the value of '{prefix}'. Templating uses python's str.format()
+# method.
 ```

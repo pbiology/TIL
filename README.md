@@ -18,6 +18,8 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 ### Conda
 > condacheat.md
 
+
+##### [Managing environments](conda/condacheat.md#Managing-environments)
 * [List all environments](conda/condacheat.md#List-all-environments)
 * [Adding channels](conda/condacheat.md#Adding-channels)
 * [Create a new environment](conda/condacheat.md#Create-a-new-environment)
@@ -26,6 +28,10 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 * [Removing an environment](conda/condacheat.md#Removing-an-environment)
 * [To clean unnecessary cached files, tarballs, and stuff](conda/condacheat.md#To-clean-unnecessary-cached-files-tarballs-and-stuff)
 * [Export the environment](conda/condacheat.md#Export-the-environment)
+
+##### [Example of environment.yml file](conda/condacheat.md#Example-of-environment.yml-file)
+
+##### [Set what to show on the command line prompt](conda/condacheat.md#Set-what-to-show-on-the-command-line-prompt)
 
 ---
 ### Emacs
