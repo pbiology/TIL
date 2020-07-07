@@ -58,6 +58,15 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 > qsubcheat.md
 
 
+##### [Show stats](qsub/qsubcheat.md#Show-stats)
+* [Show all jobs:](qsub/qsubcheat.md#Show-all-jobs:)
+* [Show load on all queues:](qsub/qsubcheat.md#Show-load-on-all-queues:)
+
+##### [Start and stop jobs](qsub/qsubcheat.md#Start-and-stop-jobs)
+* [Kill a job](qsub/qsubcheat.md#Kill-a-job)
+* [Kill a jobs in a range](qsub/qsubcheat.md#Kill-a-jobs-in-a-range)
+* [Kill all jobs from a user](qsub/qsubcheat.md#Kill-all-jobs-from-a-user)
+
 ---
 ### Shell-wrangling
 > shellcheat.md
