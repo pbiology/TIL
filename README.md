@@ -52,6 +52,7 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 > macossheet.md
 
 * [Disable mouse acceleration](macOS/macossheet.md#Disable-mouse-acceleration)
+* [Keep ssh connections alive](macOS/macossheet.md#Keep-ssh-connections-alive)
 
 ---
 ### Qsub
