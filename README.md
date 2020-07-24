@@ -13,6 +13,7 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 * [Qsub](#qsub)
 * [Scripts](#scripts)
 * [Shell-wrangling](#shell-wrangling)
+* [Sysadmin](#sysadmin)
 
 ---
 ### Conda
@@ -84,5 +85,13 @@ Inspired by: [https://github.com/jbranchaud/til](https://github.com/jbranchaud/t
 * [Make nice columns in csv files and others](shell-wrangling/shellcheat.md#Make-nice-columns-in-csv-files-and-others)
 
 ##### [Disown foreground processes](shell-wrangling/shellcheat.md#Disown-foreground-processes)
+
+---
+### Sysadmin
+> sysadmin.md
+
+
+##### [Troubleshooting ssh-keys](sysadmin/sysadmin.md#Troubleshooting-ssh-keys)
+* [SELinux issues](sysadmin/sysadmin.md#SELinux-issues)
 
 ---
