@@ -3,8 +3,8 @@
 
 ### Show stats
 
-##### Show all jobs:
-`$ qstat -f`
+##### Show all jobs for all users:
+`$ qstat -f -u "*"`
 
 ##### Show load on all queues:
 `$ qstat -g c`
