@@ -45,3 +45,10 @@ $ bg 1 #Starts in background
 $ disown -h 
 
 ``` 
+
+### Screen 
+Starting screen with a name, for easier identification of the session
+
+```
+$ screen -S <session name>
+```
