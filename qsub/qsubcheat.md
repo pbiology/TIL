@@ -19,3 +19,7 @@
 
 ##### Kill all jobs from a user
 `$ qdel -u <USER ID>`
+
+### Q-login
+One can login to a node and reserve slots. And then start jobs inside the node
+`$ qlogin -q wgs.q@kuat.medair.lcl -pe mpi 120`
